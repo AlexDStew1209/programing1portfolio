@@ -17,10 +17,10 @@ OOP graphics calculator. Created winter of 2021.
 [Source code for Calculator](https://github.com/AlexDStew1209/programing1portfolio/blob/gh-pages/src/Calculator.zip)
 
 ### Screen Saver
-OOP graphics calculator. Created winter of 2021.
+OOP graphics 2d screensaver. Created winter of 2021.
 
 ![ScreenSaver](https://github.com/AlexDStew1209/programing1portfolio/blob/gh-pages/images/screensaver.png?raw=true)
 
-[Source code for Screen Saver]()
+[Source code for Screen Saver](https://github.com/AlexDStew1209/programing1portfolio/blob/gh-pages/src/ScreenSaver.zip)
 
 ## Python Projects
