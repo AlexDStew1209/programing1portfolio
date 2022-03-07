@@ -12,7 +12,7 @@ OOP graphics collision based 2d space shooter. Created winter of 2021.
 ### Calculator
 OOP graphics collision based 2d space shooter. Created winter of 2021.
 
-![Calculator]()
+![Calculator](https://github.com/AlexDStew1209/programing1portfolio/blob/gh-pages/images/calculator.png?raw=true)
 
 [Source code for Calculator]()
 
