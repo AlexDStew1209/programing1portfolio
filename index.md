@@ -32,3 +32,11 @@ OOP graphics 2d car array. Created winter of 2021.
 
 
 ## Python Projects
+
+### Pixel Fighter
+ 1v1 pvp fighting game with special abilities and attacks. Will use keyboard one player will use wasd and one will use arrowkeys. A gravity function will pull players to the platforms. Goals is to push the other player of, or to remove all of their health through attacks. Note: the power up is currently not functioning because of instantiation inconsistancies within proccessing. Proccesing Python mode is needed to run. Group Members: Alex Stewart, Jasper Mowdood, Stuart Pahnke
+ 
+ ![pixel fighter]()
+ [Source code for Pixel fighter]()
+ 
+ 
